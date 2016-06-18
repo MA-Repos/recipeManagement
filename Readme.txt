@@ -1,12 +1,7 @@
- *	Assignment 4 for COMP2404
 
- *	Modification Author: Mir Abbas 
- *	Student number : 100956642
- *	Author: Harth Majeed
- *	Student number : 100896761
  *	Purpose : Recipe Management System
 
- *   	Files: A4.tar ----> 		A4-UML.pdf,
+ *   	Files: ------------> 		UML.pdf,
 					defs.h,
 					Llist.h, 
 					Llist.cc, 
